@@ -9,3 +9,14 @@ C:\Users\Usuário\Documents\GitHub\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Deb
 C:\Users\Usuário\Documents\GitHub\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfo.cs
 C:\Users\Usuário\Documents\GitHub\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.dll
 C:\Users\Usuário\Documents\GitHub\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.pdb
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.deps.json
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.dll
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.pdb
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.dll
+C:\Users\carlos.santos\Documents\Git\Udemy\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.pdb
