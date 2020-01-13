@@ -52,21 +52,40 @@ namespace Course
 
             #region Entrada de Dados C#
 
-            string frase = Console.ReadLine();
-            string x = Console.ReadLine();
-            string y = Console.ReadLine();
-            string z = Console.ReadLine();
-            string[] arr = Console.ReadLine().Split();
-            string p1 = arr[0], p2 = arr[1], p3 = arr[2];
+            //string frase = Console.ReadLine();
+            //string x = Console.ReadLine();
+            //string y = Console.ReadLine();
+            //string z = Console.ReadLine();
+            //string[] arr = Console.ReadLine().Split();
+            //string p1 = arr[0], p2 = arr[1], p3 = arr[2];
 
-            Console.WriteLine("Você digitou:");
-            Console.WriteLine(frase);
-            Console.WriteLine(x);
-            Console.WriteLine(y);
-            Console.WriteLine(z);
-            Console.WriteLine(p1);
-            Console.WriteLine(p2);
-            Console.WriteLine(p3);
+            //Console.WriteLine("Você digitou:");
+            //Console.WriteLine(frase);
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
+            //Console.WriteLine(z);
+            //Console.WriteLine(p1);
+            //Console.WriteLine(p2);
+            //Console.WriteLine(p3);
+
+            //int n1 = int.Parse(Console.ReadLine());
+            //char c1 = char.Parse(Console.ReadLine());
+            //double d1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            string[] arr = Console.ReadLine().Split();
+            string nome = arr[0];
+            char sexo = char.Parse(arr[1]);
+            int idade = int.Parse(arr[2]);
+            double altura = double.Parse(arr[3], CultureInfo.InvariantCulture);
+
+            //Console.WriteLine(n1);
+            //Console.WriteLine(c1);
+            //Console.WriteLine(d1.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine(nome);
+            Console.WriteLine(sexo);
+            Console.WriteLine(idade);
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
+
+
             #endregion
         }
     }
