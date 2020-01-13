@@ -71,20 +71,36 @@ namespace Course
             //int n1 = int.Parse(Console.ReadLine());
             //char c1 = char.Parse(Console.ReadLine());
             //double d1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            string[] arr = Console.ReadLine().Split();
-            string nome = arr[0];
-            char sexo = char.Parse(arr[1]);
-            int idade = int.Parse(arr[2]);
-            double altura = double.Parse(arr[3], CultureInfo.InvariantCulture);
+            //string[] arr = Console.ReadLine().Split();
+            //string nome = arr[0];
+            //char sexo = char.Parse(arr[1]);
+            //int idade = int.Parse(arr[2]);
+            //double altura = double.Parse(arr[3], CultureInfo.InvariantCulture);
 
             //Console.WriteLine(n1);
             //Console.WriteLine(c1);
             //Console.WriteLine(d1.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine(nome);
-            Console.WriteLine(sexo);
+            //Console.WriteLine(nome);
+            //Console.WriteLine(sexo);
+            //Console.WriteLine(idade);
+            //Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
+
+            //Exercício
+
+            Console.WriteLine("Entre com seu nome completo");
+            string nome = Console.ReadLine();
+            Console.WriteLine("Quantos quartos tem na sua casa");
+            int quartos = int.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com o preço de um produto");
+            double preco = double.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com seu último nome, idade e altura (mesma linha)");
+            string[] arr = Console.ReadLine().Split();
+            string ultNome = arr[0];
+            int idade = int.Parse(arr[1]);
+            double altura = double.Parse(arr[2], CultureInfo.InvariantCulture);
+            Console.WriteLine(ultNome);
             Console.WriteLine(idade);
             Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
-
 
             #endregion
         }
