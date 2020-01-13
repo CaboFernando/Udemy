@@ -32,22 +32,41 @@ namespace Course
             #endregion
 
             #region Entrada de Dados
-            string frase, x, y, z, a, b, c;
+            //string frase, x, y, z, a, b, c;
 
-            frase = Console.ReadLine();
-            x = Console.ReadLine();
-            y = Console.ReadLine();
-            z = Console.ReadLine();
-            a = Console.ReadLine();
-            b = Console.ReadLine();
-            c = Console.ReadLine();
+            //frase = Console.ReadLine();
+            //x = Console.ReadLine();
+            //y = Console.ReadLine();
+            //z = Console.ReadLine();
+            //a = Console.ReadLine();
+            //b = Console.ReadLine();
+            //c = Console.ReadLine();
+            //Console.WriteLine(frase);
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
+            //Console.WriteLine(z);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            //Console.WriteLine(c);
+            #endregion
+
+            #region Entrada de Dados C#
+
+            string frase = Console.ReadLine();
+            string x = Console.ReadLine();
+            string y = Console.ReadLine();
+            string z = Console.ReadLine();
+            string[] arr = Console.ReadLine().Split();
+            string p1 = arr[0], p2 = arr[1], p3 = arr[2];
+
+            Console.WriteLine("Você digitou:");
             Console.WriteLine(frase);
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(z);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            Console.WriteLine(c);
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
+            Console.WriteLine(p3);
             #endregion
         }
     }
